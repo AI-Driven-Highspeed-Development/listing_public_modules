@@ -1,0 +1,15 @@
+Config-Manager:
+  type: manager
+  description: Configuration manager for handling modules and project settings
+  url: https://github.com/AI-Driven-Highspeed-Development/Config-Manager.git
+
+Logger-Util:
+  type: util
+  description: A utility for logging and monitoring modules and project
+  url: https://github.com/AI-Driven-Highspeed-Development/Logger-Util.git
+
+ComfyUI-Plugin:
+  type: plugin
+  description: A plugin for ComfyUI, image generation service
+  url: https://github.com/AI-Driven-Highspeed-Development/ComfyUI-Plugin.git
+
